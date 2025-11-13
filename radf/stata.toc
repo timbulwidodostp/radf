@@ -2,4 +2,4 @@
 1
 2
 3
-p xtbunitroot Unit root tests for panel data with structural breaks. The tests were developed by Karavias and Tzavalis (2014) Use xtbunitroot With STATA 19
+p radf Calculate unit root tests for explosive behaviour Use radf With STATA 19
